@@ -2,6 +2,8 @@
 **Overview**
 BrickerGame Version 1 is a simple console-based game written in Java. The game involves breaking bricks with a ball, and the player can control the paddle to prevent the ball from falling.
 
+https://github.com/libbyyosef/BrickerGame-version1/assets/36642026/bf9ebffb-85c2-4709-a035-67dc8108d4b7
+
 **Table of Contents**
 
 - Features
