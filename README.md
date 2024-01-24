@@ -23,6 +23,7 @@ BrickerGame Version 1 is a simple console-based game written in Java. The game i
 - Score tracking.
 
 **Game Rules**
+
 The game follows these basic rules:
 - The player controls a paddle to prevent the ball from falling.
 - Breaking bricks with the ball earns points.
@@ -32,24 +33,31 @@ The game follows these basic rules:
 **Classes**
 
 **CollisionStrategy**
+
 Handles collisions between game objects, specifically the collision of bricks with the ball.
 
 **BrickerGameManager**
+
 Manages the overall game logic, including initializing game objects, handling user input, updating game state, and checking for game over conditions.
 
 **Ball**
+
 Represents the ball in the game, including its movement, collisions, and the sound played upon collision.
 
 **Brick**
+
 Represents a brick in the game, with a specific collision strategy to handle interactions with the ball.
 
 **GraphicLifeCounter**
+
 Displays the player's remaining lives as graphical hearts on the game board.
 
 **NumericLifeCounter**
+
 Displays the numeric representation of the player's remaining lives on the game board.
 
 **Paddle**
+
 Represents the player-controlled paddle, handling user input to move left or right within the game borders.
 
 Such a fun game! Try to play and beat your high score! 🎮🚀
